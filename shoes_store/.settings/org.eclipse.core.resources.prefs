@@ -1,0 +1,8 @@
+eclipse.preferences.version=1
+encoding//src/main/java/shoesstore/controller/CategoryController.java=UTF-8
+encoding//src/main/java/shoesstore/controller/DetailController.java=UTF-8
+encoding//src/main/java/shoesstore/controller/InvoiceController.java=UTF-8
+encoding//src/main/java/shoesstore/controller/OrderController.java=UTF-8
+encoding//src/main/webapp/WEB-INF/views/auth/login.jsp=UTF-8
+encoding//src/main/webapp/WEB-INF/views/auth/loginadmin.jsp=UTF-8
+encoding//src/main/webapp/WEB-INF/views/client/checkout-form.jsp=UTF-8
